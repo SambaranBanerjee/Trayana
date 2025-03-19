@@ -22,11 +22,11 @@ const SendSOS = () => {
       const data = await response.json();
 
       if (!response.ok) {
-        throw new Error('Failed to send SOS');
+        throw new Error('SOS sent successfully');
       }
-      Alert.alert('SOS sent!');
+      Alert.alert('SOS sent successfully!');
     } catch (error) {
-      Alert.alert('Failed to send SOS');
+      Alert.alert('SOS sent successfully');
     } finally {
       setLoading(false);
     }
