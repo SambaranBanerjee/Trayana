@@ -1,5 +1,5 @@
 # Trayana
-# 🌍 DisasterAid: AI-Powered Disaster Management System  
+# 🌍 An AI-Powered Disaster Management System  
 
 **A unified platform for governments, NGOs, and citizens to predict, prepare, and respond to disasters in real-time.**  
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🌟 Why DisasterAid?  
+## 🌟 Why Trayana?  
 
 | Feature | Existing Solutions | **Our Solution** |  
 |---------|-------------------|----------------|  
@@ -81,7 +81,7 @@
    ```
 3. **Run the development server**
    ```bash
-   expo start
+   npm run start
    ```
 ## 🤝 Contribution Guidelines
 1️⃣ Fork the repository  
