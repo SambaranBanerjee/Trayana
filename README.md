@@ -47,8 +47,10 @@
 ## ⚙️ Tech Stack  
 
 ### **Frontend**  
+- React Native
 
 ### **Backend**  
+- NodeJS
 
 ### **Integrations**  
 - SMS Alerts: `Twilio API`  
@@ -70,4 +72,22 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone 
+   git clone https://github.com/prajwallakra/Trayana.git
+   ```
+2. **Install dependencies**
+   ```bash
+   cd Trayana
+   npm install
+   ```
+3. **Run the development server**
+   ```bash
+   expo start
+   ```
+## 🤝 Contribution Guidelines
+1️⃣ Fork the repository  
+2️⃣ Create a new branch (`feature-branch`)  
+3️⃣ Commit your changes  
+4️⃣ Submit a pull request 🎉
+
+## 📩 Contact
+For queries, reach out at: `pl2748@cse.jgec.ac.in` or  ``
