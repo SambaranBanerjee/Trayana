@@ -34,20 +34,23 @@
 - **IVR Helpline**  
   Call for assistance without internet.  
 
----
 
 ## 📱 Screenshots  
 
-                                                | Send SOS |
+1. ** Send SOS **
 
-![WhatsApp Image 2025-03-26 at 10 24 47_ef08b366](https://github.com/user-attachments/assets/9a5d3120-094c-4119-aa2c-db3d5a1599b3)
+   ![WhatsApp Image 2025-03-26 at 10 24 47_ef08b366](https://github.com/user-attachments/assets/9a5d3120-094c-4119-aa2c-db3d5a1599b3)
 
+2. ** Find Nearby NGOs/other Partner Organizations **
 
+   ![WhatsApp Image 2025-03-26 at 10 24 51_feb52fcc](https://github.com/user-attachments/assets/4c3a72c6-59c8-49d8-8610-3f9040f71bb8)
 
+3. ** Videos on Survival during a Diaster **
 
-
+   ![WhatsApp Image 2025-03-26 at 10 25 13_eb14364d](https://github.com/user-attachments/assets/a679d7d4-fdd3-467e-aedc-0e9dd4ada8cb)
 
 ## ⚙️ Tech Stack  
+
 
 ### **Frontend**  
 - React Native
