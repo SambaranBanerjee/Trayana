@@ -40,7 +40,7 @@
 
 | Admin Portal | NGO Dashboard | Citizen App |  
 |-------------|--------------|------------|  
-| <img src="[screenshots/admin.png](https://asset.cloudinary.com/dd3wlco6o/f4c0cf73f2cfb44d985183e9c882f7ff)" width=200> | <img src="https://asset.cloudinary.com/dd3wlco6o/00476e69d8ff845981978db4c4c75165" width=200> | <img src="https://asset.cloudinary.com/dd3wlco6o/7b29e56fb44cebaf6400570ea40ac55d" width=200> |  
+| <img src="https://asset.cloudinary.com/dd3wlco6o/f4c0cf73f2cfb44d985183e9c882f7ff" width=200 /> | <img src="https://asset.cloudinary.com/dd3wlco6o/00476e69d8ff845981978db4c4c75165" width=200 /> | <img src="https://asset.cloudinary.com/dd3wlco6o/7b29e56fb44cebaf6400570ea40ac55d" width=200 /> |  
 
 ---
 
