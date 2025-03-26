@@ -96,4 +96,4 @@
 4️⃣ Submit a pull request 🎉
 
 ## 📩 Contact
-For queries, reach out at: `pl2748@cse.jgec.ac.in` or  ``
+For queries, reach out at: `pl2748@cse.jgec.ac.in` or  `sb2708@cse.jgec.ac.in`
