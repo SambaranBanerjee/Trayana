@@ -38,9 +38,9 @@
 
 ## 📱 Screenshots  
 
-| Send SOS |
+                                                | Send SOS |
 
----![WhatsApp Image 2025-03-26 at 10 24 47_ef08b366](https://github.com/user-attachments/assets/9a5d3120-094c-4119-aa2c-db3d5a1599b3)
+![WhatsApp Image 2025-03-26 at 10 24 47_ef08b366](https://github.com/user-attachments/assets/9a5d3120-094c-4119-aa2c-db3d5a1599b3)
 
 
 
