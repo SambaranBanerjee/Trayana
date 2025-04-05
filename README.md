@@ -89,6 +89,9 @@
    ```bash
    npm run start
    ```
+4. **Install the Expo Go app**
+5. **Scan the QR code obtained from the terminal**
+   
 ## 🤝 Contribution Guidelines
 1️⃣ Fork the repository  
 2️⃣ Create a new branch (`feature-branch`)  
